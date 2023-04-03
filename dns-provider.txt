@@ -1,12 +1,3 @@
-## Title : TheGreatWall
-## Prevent program and malware to bypass DNS filter by using popular DoH services
-## To block DNS over TLS (DoT), block port 853
-## This list has been created for security purpose ONLY
-## To be more efficient, you should also consider blocking DoH providers IP adresses
-## Last update : 15 June 2020
-## Domain count : 132
-===================================================================
-
 # Aaflalo
 0.0.0.0 dns.aaflalo.me
 0.0.0.0 dns-nyc.aaflalo.me
